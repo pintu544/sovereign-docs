@@ -1,0 +1,13 @@
+# Sovereign Docs backend dependencies
+# Install CPU-only torch first to avoid multi-GB CUDA downloads:
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch
+# Then:
+#   pip install -r requirements.txt
+
+faiss-cpu==1.15.1
+fastapi==0.143.0
+uvicorn==0.54.0
+pymupdf==1.28.2
+sentence-transformers==6.1.0
+python-multipart==0.0.32
+numpy==2.5.4
