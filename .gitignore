@@ -25,3 +25,4 @@ demo/*.mp4
 
 # OS
 .DS_Store
+llama.cpp/
