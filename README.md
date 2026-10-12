@@ -10,6 +10,10 @@ Built for [Hack Apertus 2026](https://hackapertus.ch/), Track 2B: Own Project.
 
 > "No cloud. No API key. No document uploads. This is sovereign AI powered by Apertus."
 
+## Demo
+
+Watch it in action: [Sovereign Docs demo video](https://youtu.be/HNhBvEReyTY)
+
 ## Architecture
 
 - **Frontend:** Next.js 16 + Tailwind CSS (`frontend/`)
